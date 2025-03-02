@@ -1,0 +1,14 @@
+C:\Users\USER\documents\tugasPBO\tugas1\bin\Debug\net9.0\tugas1.exe
+C:\Users\USER\documents\tugasPBO\tugas1\bin\Debug\net9.0\tugas1.deps.json
+C:\Users\USER\documents\tugasPBO\tugas1\bin\Debug\net9.0\tugas1.runtimeconfig.json
+C:\Users\USER\documents\tugasPBO\tugas1\bin\Debug\net9.0\tugas1.dll
+C:\Users\USER\documents\tugasPBO\tugas1\bin\Debug\net9.0\tugas1.pdb
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.AssemblyInfoInputs.cache
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.AssemblyInfo.cs
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.csproj.CoreCompileInputs.cache
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.dll
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\refint\tugas1.dll
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.pdb
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\tugas1.genruntimeconfig.cache
+C:\Users\USER\documents\tugasPBO\tugas1\obj\Debug\net9.0\ref\tugas1.dll
